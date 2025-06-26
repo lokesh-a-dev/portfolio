@@ -32,7 +32,7 @@ const About = ({ isDarkMode }) => {
         transition={{ duration: 0.8 }}
         className='flex flex-col lg:flex-row items-center gap-10 sm:gap-20 my-10 sm:my-20'>
         
-        {/* Profile Image */}
+        {/* Profile Image hi */}
         <motion.div
           initial={{ opacity: 0, scale: 0.9 }}
           whileInView={{ opacity: 1, scale: 1 }}
