@@ -46,7 +46,7 @@ const Work = ({ isDarkMode }) => {
   initial={{ opacity: 0 }}
   whileInView={{ opacity: 1 }}
   transition={{ delay: 0.9, duration: 0.6 }}
-  className="grid md:grid-cols-4 sm:grid-cols-2 grid-cols-1 justify-center items-center gap-9 w-max mx-auto"
+  className="grid md:grid-cols-3 sm:grid-cols-2 grid-cols-1 justify-center items-center gap-9 w-max mx-auto"
 
 >
 

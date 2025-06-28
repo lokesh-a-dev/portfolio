@@ -119,16 +119,16 @@ export const workData = [
 
 
     },
-    {
-        title: 'Ai Chat App',
-        bgImage: '/work-4.png',
-        techstack: ['Node js', 'Express js', 'Gemini-Api' , 'Ejs' , 'Html & CSS' ],
-           liveLink : 'https://silo-ai-84sv.onrender.com/',
-        gitubLink : 'https://github.com/silo-bros/silo-ai-gemini',
-        description: 'AI chatbot built using Gemini API that can be used for tasks such as answering questions, generating code, providing definitions.'
+    // {
+    //     title: 'Ai Chat App',
+    //     bgImage: '/work-4.png',
+    //     techstack: ['Node js', 'Express js', 'Gemini-Api' , 'Ejs' , 'Html & CSS' ],
+    //        liveLink : 'https://silo-ai-84sv.onrender.com/',
+    //     gitubLink : 'https://github.com/silo-bros/silo-ai-gemini',
+    //     description: 'AI chatbot built using Gemini API that can be used for tasks such as answering questions, generating code, providing definitions.'
 
 
-    },
+    // },
 ]
 
 // export const serviceData = [
