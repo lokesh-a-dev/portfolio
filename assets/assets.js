@@ -91,15 +91,7 @@ export const assets = {
 };
 
 export const workData = [
-    {
-        title: 'Real Time Chat Application',
-        bgImage: '/work-1.png',
-        techstack: ['React', "DaisyUI" , 'Tailwind', 'Node.js', 'Socket.io' , 'MongoDB', 'Cloudinary' ],
-        liveLink : 'https://mern-stack-chat-app-8dh6.onrender.com/login',
-        gitubLink : 'https://github.com/lokeshRedEye/mern-stack-chat-app',
-        description: 'A real-time chat application with CRUD functionalities using MongoDB.'
-    },
-    {
+      {
         title: 'Job Portal',
         bgImage: '/job-portal.png',
         techstack: ['MERN', 'Clerk' , 'Cloudinary' ],
@@ -109,6 +101,26 @@ export const workData = [
 
 
     },
+      {
+        title: 'Sensai AI Career Coach',
+        bgImage: '/sensai.jpg',
+        techstack: ['NEXT.JS', 'Neon' , 'PostreSQL' ],
+           liveLink : 'https://sensai-taupe.vercel.app/',
+        gitubLink : 'https://github.com/lokesh-a-dev/sensai',
+        description: 'An AI-powered career coach that provides personalized Quiz and Resume Builder. It uses OpenAI API to generate customized questions, resume Builder, and interview preparation tips to help users advance their careers.'
+
+
+    },
+    {
+        title: 'Real Time Chat Application',
+        bgImage: '/work-1.png',
+        techstack: ['React', "DaisyUI" , 'Tailwind', 'Node.js', 'Socket.io' , 'MongoDB', 'Cloudinary' ],
+        liveLink : 'https://mern-stack-chat-app-8dh6.onrender.com/login',
+        gitubLink : 'https://github.com/lokeshRedEye/mern-stack-chat-app',
+        description: 'A real-time chat application with CRUD functionalities using MongoDB.'
+    },
+    
+  
     {
         title: 'Kovai Juice And Bakery',
         bgImage: '/work-3.png',
